@@ -1,0 +1,111 @@
+ #title{
+        width: 100%;
+        height: 75px;
+        font-size: 30px;
+        text-align: center;
+        font-weight: bolder;
+        position:absolute;
+        letter-spacing: 15px;
+        background-color: rgb(104, 187, 255);
+        line-height: 75px;
+    }
+    #content{
+        position: absolute;
+        background-color: rgb(162, 216, 252);
+        margin-left:260px;
+        margin-top: 75px;
+    }
+    #notuse{
+        overflow: auto;
+        width:1200px;
+        margin-top: 50px;
+        height:600px;
+    }
+    table {
+          border: rgb(0, 0, 0) 2px solid;
+          width: 800px;
+          font-size: 15px;
+      }
+    table,td{
+          text-align: center;
+          border: 1px solid black;
+    }
+    #shelve{
+        margin-left: 250px;
+        margin-top: 50px;
+        overflow: auto;
+    }
+    #medicine{
+        width: 820px;
+        margin-left: 250px;
+        margin-top: 10px;
+        height:580px;
+        overflow:auto;
+    }
+    #medicineadd{
+        text-align: center;
+        margin-top: 50px;
+    }
+    #shelveadd{
+        text-align: center;
+        margin-top: 50px;
+    }
+    #medicineupdate{
+        margin-top: 50px;
+    }
+    #shelveupdate{
+        margin-top: 50px;
+    }
+    #findmedicine{
+        margin-top: 20px;
+        height:580px;
+        overflow: auto;
+    }
+    #stitle{
+          font-size: 1em;
+          position: absolute;
+          left: 500px;
+          top: 30px;
+   }
+    #sresult{
+          position: absolute;
+          height:500px;
+          overflow:auto;
+          left: 250px;
+          top: 75px;
+    }
+    h1{
+            border :2px solid black;
+            border-radius:10px;
+			text-align: center;
+			margin-left: 35%;
+			font-size:25px;
+			height:20%;
+			color:rgb(13, 40, 116);
+			width: 30%;
+			background-color: rgb(176, 255, 225);
+    }
+	form {
+			width: 40%;
+			margin-left: 30%;
+			margin-top: 1%;
+			font-size: 20px;
+			border :2px solid black;
+            border-radius:10px;
+            background-color: rgb(176, 255, 225);
+	}
+	input{
+	   width:250px;
+	   height:40px;
+	   margin-top:10px;
+	   margin-bottom:10px;
+	   text-align: center;
+	   border-radius: 10px;
+	   border:2px solid black;
+	   background-color: rgb(205, 231, 253);
+	   font-size:18px;
+	}
+	form, td {
+			border :2px solid black;
+			text-align: center;
+	}
